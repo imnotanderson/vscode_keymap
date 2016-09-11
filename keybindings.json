@@ -4,11 +4,11 @@
     "command": "editor.action.goToDeclaration",
     "when": "editorTextFocus"
 },{
-    "key": "cmd+right",
+    "key": "cmd+[",
     "command": "workbench.action.navigateForward",
     "when": "editorTextFocus"
 },{
-    "key": "cmd+left",
+    "key": "cmd+]",
     "command": "workbench.action.navigateBack",
     "when": "editorTextFocus"
 }
